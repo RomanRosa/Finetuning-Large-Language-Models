@@ -1,0 +1,4 @@
+lamini
+huggingface_hub
+transformers
+huggingface-cli
